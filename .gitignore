@@ -1,0 +1,5 @@
+# local files
+node_modules/
+
+# output assets files
+public/assets/
